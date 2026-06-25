@@ -77,4 +77,4 @@ The acceptable use policy felt the most straightforward at first, but the BYOD a
 
 Security Risk Analyst with 12 years in enterprise risk management. CompTIA Security+ certified (SY0-701). Google Cybersecurity Certificate. ISC2 CC in progress. CRISC candidate. Based in Phoenix, AZ.
 
-[LinkedIn](https://linkedin.com/in/joshgouvisis) | [GitHub](https://github.com/JoshGouvisis)
+[LinkedIn](https://www.linkedin.com/in/joshgouvisis/) | [GitHub](https://github.com/JoshGouvisis)
