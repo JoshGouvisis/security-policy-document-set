@@ -1,8 +1,10 @@
-# Veridian Freight & Logistics — Security Policy Document Set
+# Veridian Freight & Logistics: Security Policy Document Set
 
-**Role:** Security Analyst (Simulated — First Security Hire)
+**Role:** Security Analyst (Simulated, First Security Hire)
 **Policy Type:** Foundational GRC Policy Development
 **Project:** Portfolio Project 3
+
+> Part of a GRC portfolio series. See also the [NIST CSF Gap Assessment](https://github.com/JoshGouvisis/nist-csf-gap-assessment) and [Third-Party Vendor Risk Assessment](https://github.com/JoshGouvisis/third-party-vendor-risk-assessment), both conducted for a different fictional firm, Meridian Financial Group. Full portfolio: [github.com/JoshGouvisis](https://github.com/JoshGouvisis).
 
 ---
 
@@ -41,7 +43,7 @@ Three policies were developed to establish the foundation: an Acceptable Use Pol
 ## NIST CSF 2.0 Mapping
 
 | Policy | NIST CSF Function(s) | Subcategories |
-|--------|---------------------|---------------|
+|--------|----------------------|----------------|
 | Acceptable Use | Protect | PR.AT-01, PR.AC-01, PR.AC-03, PR.DS-01, PR.DS-05, PR.PS-01 |
 | Incident Response | Detect, Respond, Recover | DE.AE-02, DE.AE-03, DE.CM-01, RS.MA-01, RS.MA-02, RS.AN-01, RS.AN-03, RS.MI-01, RS.CO-02, RS.CO-03, RC.RP-01, RC.CO-01 |
 | Access Control | Protect | PR.AA-01, PR.AA-02, PR.AA-03, PR.AA-05, PR.AC-01, PR.AC-03, PR.AC-04, PR.AC-07, PR.PS-01 |
@@ -75,6 +77,6 @@ The acceptable use policy felt the most straightforward at first, but the BYOD a
 
 ## About Me
 
-Security Risk Analyst with 12 years in enterprise risk management. CompTIA Security+ certified (SY0-701). Google Cybersecurity Certificate. ISC2 CC in progress. CRISC candidate. Based in Phoenix, AZ.
+GRC & Security Risk Analyst with 12 years in enterprise risk management, transitioning into GRC and cybersecurity. CompTIA Security+ certified (SY0-701). Google Cybersecurity Professional Certificate. ISC2 CC, Certified in Cybersecurity. CySA+ in progress. Based in Phoenix, AZ.
 
 [LinkedIn](https://www.linkedin.com/in/joshgouvisis/) | [GitHub](https://github.com/JoshGouvisis)
